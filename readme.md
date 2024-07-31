@@ -13,7 +13,7 @@ Este repositorio contiene los 3 proyectos con los diferentes tipos de pruebas im
 
 ### 1. Pruebas Unitarias
 - **Repositorio:** [Test-spring-petclinic-rest](https://github.com/ramirezrr/Test-Proyecto-Java-Testing/blob/20bcd88ac38a2771be3373c69274d36b83e4a8fa/Test-spring-petclinic-rest/readme.md)
-- **Objetivo**: Se implementó 10 pruebas unitarias para la aplicación PetClinic.
+- **Objetivo**: Se implementó 18 pruebas unitarias para la aplicación PetClinic.
 - **Revisar el README.md que detalla los test U. realizados:** [Link Readme](https://github.com/ramirezrr/Test-Proyecto-Java-Testing/blob/20bcd88ac38a2771be3373c69274d36b83e4a8fa/Test-spring-petclinic-rest/readme.md)
 - **Herramientas**: JUnit + Mockito.
 - **Pruebas Realizadas sobre las clases controller de**:
